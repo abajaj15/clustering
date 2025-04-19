@@ -34,7 +34,7 @@ I used the **Wine Quality** dataset from the UCI Machine Learning Repository. Th
 ## 🚀 How to Run the Code
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sidharthd7/Clustering.git
+   git clone https://github.com/abajaj15/clustering.git
    ```
 2. Install the required dependencies:
    ```bash
